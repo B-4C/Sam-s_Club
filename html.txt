@@ -1,0 +1,69 @@
+<section class="main">
+<div class="recirc__container">
+<div class="recirc">
+<div class="recirc__column">
+<h3 class="recirc__title recirc__title--ideas"><a class="" title="" href="https://www.fastcompany.com/impact">IMPACT</a></h3>
+<article class="card card--recirc"><a class="" title="We need more lithium for EV batteries. Geothermal plants could be a source" href="https://www.fastcompany.com/90735227/geothermal-plants-lithium-boost-ev-battery-industry"><span class="eyebrow eyebrow--">IMPACT</span></a>
+<h2 class="card__title card__title--recirc">We need more lithium for EV batteries. Geothermal plants could be a source</h2>
+</article>
+<article class="card card--recirc"><a class="" title="The fight to tax the super-rich" href="https://www.fastcompany.com/90735220/the-fight-to-tax-the-super-rich-wealth-tax"><span class="eyebrow eyebrow--">IMPACT</span></a>
+<h2 class="card__title card__title--recirc">The fight to tax the super-rich</h2>
+</article>
+<article class="card card--recirc"><a class="" title="This motor attachment from Bird turns manual wheelchairs electric" href="https://www.fastcompany.com/90734740/this-motor-attachment-from-bird-turns-manual-wheelchairs-electric"><span class="eyebrow eyebrow--">IMPACT</span></a>
+<h2 class="card__title card__title--recirc">This motor attachment from Bird turns manual wheelchairs electric</h2>
+</article>
+</div>
+<div class="recirc__column">
+<h3 class="recirc__title recirc__title--entertainment"><a class="" title="" href="https://www.fastcompany.com/creativity">NEWS</a></h3>
+<article class="card card--recirc"><a class="" title="How to watch the 2022 Academy Awards live on ABC without cable, including free options" href="https://www.fastcompany.com/90735207/how-to-watch-the-2022-academy-awards-live-on-abc-without-cable-including-free-options"><span class="eyebrow eyebrow--">NEWS</span></a>
+<h2 class="card__title card__title--recirc">How to watch the 2022 Academy Awards live on ABC without cable, including free options</h2>
+</article>
+<article class="card card--recirc"><a class="" title="Why &lsquo;Dune&rsquo; should win Best Picture at this year&rsquo;s Oscars" href="https://www.fastcompany.com/90734651/why-dune-should-win-best-picture-at-this-years-oscars"><span class="eyebrow eyebrow--">NEWS</span></a>
+<h2 class="card__title card__title--recirc">Why &lsquo;Dune&rsquo; should win Best Picture at this year&rsquo;s Oscars</h2>
+</article>
+<article class="card card--recirc"><a class="" title="Pusha T, Arby&rsquo;s, and why more brands should be willing to pick a fight" href="https://www.fastcompany.com/90735271/pusha-t-arbys-and-why-more-brands-should-be-willing-to-pick-a-fight"><span class="eyebrow eyebrow--">NEWS</span></a>
+<h2 class="card__title card__title--recirc">Pusha T, Arby&rsquo;s, and why more brands should be willing to pick a fight</h2>
+</article>
+</div>
+<div class="recirc__column">
+<h3 class="recirc__title recirc__title--design"><a class="" title="" href="https://www.fastcompany.com/co-design">CO.DESIGN</a></h3>
+<article class="card card--recirc"><a class="" title="How people feel about living in small spaces is more about psychology than square footage" href="https://www.fastcompany.com/90733887/how-people-feel-about-living-in-small-spaces-is-more-about-psychology-than-square-footage"><span class="eyebrow eyebrow--">CO.DESIGN</span></a>
+<h2 class="card__title card__title--recirc">How people feel about living in small spaces is more about psychology than square footage</h2>
+</article>
+<article class="card card--recirc"><a class="" title="Evening gowns are the latest supply chain victim" href="https://www.fastcompany.com/90734896/evening-gown-shortage-supply-chain-oscars"><span class="eyebrow eyebrow--">CO.DESIGN</span></a>
+<h2 class="card__title card__title--recirc">Evening gowns are the latest supply chain victim</h2>
+</article>
+<article class="card card--recirc"><a class="" title="How the &lsquo;Hamilton&rsquo; stage designer is infusing Broadway magic into this year&rsquo;s Oscars" href="https://www.fastcompany.com/90735215/how-the-hamilton-stage-designer-is-infusing-broadway-magic-into-this-years-oscars"><span class="eyebrow eyebrow--">CO.DESIGN</span></a>
+<h2 class="card__title card__title--recirc">How the &lsquo;Hamilton&rsquo; stage designer is infusing Broadway magic into this year&rsquo;s Oscars</h2>
+</article>
+</div>
+<div class="recirc__column">
+<h3 class="recirc__title recirc__title--fastcompany"><a class="" title="" href="https://www.fastcompany.com/work-life">WORK LIFE</a></h3>
+<article class="card card--recirc"><a class="" title="How leaders can manage &lsquo;brilliant jerks&rsquo;" href="https://www.fastcompany.com/90733773/how-leaders-can-manage-brilliant-jerks"><span class="eyebrow eyebrow--">WORK LIFE</span></a>
+<h2 class="card__title card__title--recirc">How leaders can manage &lsquo;brilliant jerks&rsquo;</h2>
+</article>
+<article class="card card--recirc"><a class="" title="My 11-point plan for landing your first round of institutional capital" href="https://www.fastcompany.com/90735298/my-11-point-plan-for-landing-your-first-round-of-institutional-capital"><span class="eyebrow eyebrow--">WORK LIFE</span></a>
+<h2 class="card__title card__title--recirc">My 11-point plan for landing your first round of institutional capital</h2>
+</article>
+<article class="card card--recirc"><a class="" title="Chasing happiness is futile. Here&rsquo;s what to do instead" href="https://www.fastcompany.com/90733770/chasing-happiness-is-futile-heres-what-to-do-instead"><span class="eyebrow eyebrow--">WORK LIFE</span></a>
+<h2 class="card__title card__title--recirc">Chasing happiness is futile. Here&rsquo;s what to do instead</h2>
+</article>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer"><nav class="footer__nav-wrapper">
+<ul class="footer__link-container">
+<li class="footer__link"><a href="https://www.fastcompany.com/90516811/fast-company-mediakit" target="_blank" rel="noopener noreferrer">Advertise</a></li>
+<li class="footer__link"><a href="https://www.mansueto.com/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+<li class="footer__link"><a href="https://www.mansueto.com/terms-of-service" target="_blank" rel="noopener noreferrer">Terms</a></li>
+<li class="footer__link"><a href="https://www.mansueto.com/privacy-policy/#collection" target="_blank" rel="noopener noreferrer">Notice of Collection</a></li>
+<li class="footer__link"><a href="https://fastcompany.zendesk.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Do Not Sell My Data</a></li>
+<li class="footer__link"><a href="https://kudos.fastcompany.com/" target="_blank" rel="noopener noreferrer">Permissions</a></li>
+<li class="footer__link"><a href="https://www.fastcompany.com/contact-us" target="_blank" rel="noopener noreferrer">Help Center</a></li>
+<li class="footer__link"><a href="https://www.fastcompany.com/about-us" target="_blank" rel="noopener noreferrer">About Us</a></li>
+<li class="footer__link"><a href="https://www.fastcompany.com/sitemap">Site Map</a></li>
+<li class="footer__link">Fast Company &amp; Inc &copy; 2022 Mansueto Ventures, LLC</li>
+<li class="footer__link"><a href="https://www.mansueto.com/vendor-policies.html" target="_blank" rel="noopener noreferrer"><img class="footer__daa-logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAAAAAC4QtCeAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAJ0Uk5TAAB2k804AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACASURBVAjXYyir3PaDAQby09KL9/2FcjIWf1mbVX0Mwklfw8DwbF5awzkwZzXDjco/j/vTuq+COe93APXcLE5bCeKczvzOwPCoPG0xiHMq6/f9SWkdF4HK1jKcyepJazgFNnrBpwtpVUchRuempR17+htqaU/55l9w5xzf+RHOBgC94zlXyQTR6wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0wMy0wOFQxOToxMDo0NC0wNTowMNnS5vEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMDMtMDhUMTk6MTA6NDQtMDU6MDCoj15NAAAAAElFTkSuQmCC" alt="Digital Advertising Alliance (DAA) Self-Regulatory Program" /></a></li>
+</ul>
+</nav></footer>
